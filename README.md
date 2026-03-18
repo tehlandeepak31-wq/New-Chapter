@@ -1,2 +1,2 @@
 # New-Chapter
-This is my first Git Repository.
+This is Daily Expenses Tracker 
